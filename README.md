@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @PriyuPagare
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in full stack devlopment
+- 🌱 Currently in my final year of IT engineering, focusing on learning new coding languages
+-  📫 How to reach me LinkedIn: [www.linkedin.com/in/priyanka-pagare-12s09]
 
-<!---
-PriyuPagare/PriyuPagare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
